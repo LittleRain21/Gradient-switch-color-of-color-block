@@ -1,0 +1,25 @@
+.box1 {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin: 50px auto;
+    position: absolute;
+    left: 200px;
+}
+
+.box2 {
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    margin: 50px auto;
+    position: absolute;
+    left: 200px;
+}
+
+.change{
+    width: 225px;
+    height: 100px;
+    position: relative;
+    left: 139px;
+    margin-left: 20px;
+}
